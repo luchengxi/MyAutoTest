@@ -9,6 +9,6 @@ public class loginTest {
     }
     @Test
     public void login1(){
-        System.out.println("登陆login1");
+        System.out.println("登陆login11");
     }
 }
