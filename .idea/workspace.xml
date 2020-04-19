@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fe54864-85f1-456b-835e-76cae2e0dd84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyAutoTest.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\maven\MyRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1akN7twfozLPNjwkFTD4QFvodid" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4940945" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="D:/Program Files/JetBrains/MyAutoTest/autoTest/src/main/resources/testNg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="autoTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/autoTest/src/main/resources/testNg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Program Files/JetBrains/MyAutoTest/autoTest/src/main/resources/testNg.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fe54864-85f1-456b-835e-76cae2e0dd84" name="Default Changelist" comment="" />
+      <created>1587275467542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587275467542</updated>
+      <workItem from="1587275472614" duration="1155000" />
+      <workItem from="1587287970612" duration="472000" />
+      <workItem from="1587288479572" duration="1832000" />
+      <workItem from="1587290352155" duration="4084000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次使用idea提交自动化接口测试maven工程到git">
+      <created>1587276349219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587276349219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="套件测试">
+      <created>1587294316983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587294316983</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次使用idea提交自动化接口测试maven工程到git" />
+    <MESSAGE value="套件测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="套件测试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="273" y="26" width="818" height="676" key="#Project_Structure" timestamp="1587290104519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="273" y="26" width="818" height="676" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587290104519" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587289788467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587289788467" />
+    <state x="327" y="292" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587292971619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="292" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1587292971619" />
+    <state x="284" y="0" key="CommitChangelistDialog2" timestamp="1587294314565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="284" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587294314565" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587293781354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587293781354" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587293781354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587293781354" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587293781354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587293781354" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587293781354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587293781354" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1587293650063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587293650063" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1587293650062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587293650062" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1587293650062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587293650062" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1587293650063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587293650063" />
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1587289508534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1587289508534" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1587291123090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587291123090" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1587294344955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587294344955" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1587290353192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587290353192" />
+    <state x="370" y="0" width="626" height="728" key="find.popup" timestamp="1587292636016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="370" y="0" width="626" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587292636016" />
+    <state x="57" y="72" key="new project wizard" timestamp="1587275939166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="72" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587275939166" />
+  </component>
+</project>
